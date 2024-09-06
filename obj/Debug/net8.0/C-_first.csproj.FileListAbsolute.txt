@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\bin\Debug\net8.0\C-_first.exe
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\bin\Debug\net8.0\C-_first.deps.json
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\bin\Debug\net8.0\C-_first.runtimeconfig.json
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\bin\Debug\net8.0\C-_first.dll
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\bin\Debug\net8.0\C-_first.pdb
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.AssemblyInfo.cs
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.sourcelink.json
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.dll
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\refint\C-_first.dll
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.pdb
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\C-_first.genruntimeconfig.cache
+C:\Users\User\Documents\Antal Péter Dániel\C-_first\obj\Debug\net8.0\ref\C-_first.dll
